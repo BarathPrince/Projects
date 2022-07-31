@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head><title> Web Technology Exp no 1</title>
+<style> table, th,
+    td {
+    width: 50ch;
+    border: 1px solid black; border-style: line; background-color: rgb(99, 99, 166);
+    }
+</style>
+<body style="background-color:rgb(99, 99, 166)"></body>
+<style>
+.center_align {
+text-align: center;
+}
+</style>
+</head>
+
+<body>
+<div class="center_align">
+<h1>WELCOME TO THE CHAMPIONS LEAGUE WEBSITE</h1>
+</div>
+<p>My Name: <span style = "color:rgb(8, 8, 10)">D BARATH</span></p>
+<br>
+<br>
+<br>
+
+<div class="center_align">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" width="300",height="200",>
+</div>
+<br>
+<br>
+<div class="centre_align">
+<p align ="center"><img src="https://i0.wp.com/koko.ng/wp-content/uploads/2021/05/Manchester-City-Chelsea-Champions-League-KOKO-TV-Nigeria-.jpeg" width="650",height="300"></p>
+</div>
+
+<br>
+<br>
+<br>
+<p style="color:rgb(8, 7, 7);">THE BELOW TABLE CONTAINS THE LEAGUE STANDINGS OF THE CHAMPIONS LEAGUE SEASON 2020-2021: </p>
+<table>
+<tr>
+    <th>TEAM</th>
+    <th>MATCHES</th>
+    <th>Points</th>
+    </tr>
+    <tr>
+    <td>CHELSEA</td>
+    <td>6</td>
+    <td>18</td>
+    </tr>
+    <tr>
+    <td>MAN CITY</td>
+    <td>6</td>
+    <td>15</td>
+    </tr>
+    <tr>
+    <td>PARIS-SAINT-GERMAN</td>
+    <td>6</td>
+    <td>14</td>
+    </tr>
+    <tr>
+    <td>REAL MADRID</td>
+    <td>6</td>
+    <td>12</td>
+    </tr>
+    <tr>
+    <td>DORTMUND</td>
+    <td>6</td>
+    <td>12</td>
+    </tr>
+    <tr>
+    <td>LIVERPOOL</td>
+    <td>6</td>
+    <td>10</td>
+    </tr>
+    <tr>
+    <td>PORTO</td>
+    <td>6</td>
+    <td>09</td>
+    </tr>
+    <tr>
+    <td>BAYERN-MUNICH</td>
+    <td>6</td>
+    <td>09</td>
+    </tr>
+    <tr>
+    <td>JUVENTUS</td>
+    <td>6</td>
+    <td>08</td>
+    </tr>
+    <tr>
+    <td>ATLETEICO MADRID</td>
+    <td>6</td>
+    <td>08</td>
+    </tr>
+    </table>
+    <br>
+    <dl>
+    <dt><b>League status:</b></dt>
+    <dd>Chelsea are leading with 3 points</dd> <h2 >Top Scores: </h2>
+    <section>
+    <ol>
+    <li>Erling Haaland - 10</li>
+    <li>Kylian Mbappe - 8</li>
+    <li>Karim Benzema - 6</li>
+    <li>Oliver Giroud - 6</li>
+    <li>Alvaro Morata - 6</li>
+</ol>
+<h3>Top Assists Provider:</h3>
+<ul type = "disc">
+<li>Cuadrado - 6</li>
+<li>Joshua Kimmich - 4</li>
+<li>Angel Di Maria - 4</li>
+<li>Jadon Sancho - 3</li>
+<li>Kevin De Bruyne - 3</li>
+</ul>
+</section>
+<p>Below link to Champions League webpage:</p>
+<a href="https://www.uefa.com/uefachampionsleague/"><u>Click here</u></a>
+<br>
+<br>
+<nav>
+<p>Instagram-id:</p>
+<a href="https://www.instagram.com/championsleague/?hl=en">Insta Official</a><br>
+</nav>
+<footer>
+<p>Author Name: BARATH D</p>  
+<nav>
+<p>Mail-id:</p>
+<a href="https://mail.google.com/mail/u/0/#inbox">KMail</a></p>
+</nav>
+</footer>
+</body>
+</html>
